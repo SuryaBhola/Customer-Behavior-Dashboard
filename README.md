@@ -2,7 +2,7 @@
 
 A Power BI dashboard built on a customer shopping dataset of 3,900 purchases. I cleaned and prepared the data in Python (pandas, in a Jupyter notebook), then used it to look at who is buying, what they buy, and how much they spend.
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](dashboard.png)
 
 ---
 
